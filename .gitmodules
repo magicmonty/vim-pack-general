@@ -1,54 +1,54 @@
-[submodule "bufexplorer"]
-	path = bufexplorer
+[submodule "start/bufexplorer"]
+	path = start/bufexplorer
 	url = https://github.com/jlanzarotta/bufexplorer.git
-[submodule "nerdtree"]
-	path = nerdtree
+[submodule "start/nerdtree"]
+	path = start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "quickfixsigns_vim"]
-	path = quickfixsigns_vim
+[submodule "start/quickfixsigns_vim"]
+	path = start/quickfixsigns_vim
 	url = https://github.com/tomtom/quickfixsigns_vim.git
-[submodule "rainbow_parentheses.vim"]
-	path = rainbow_parentheses.vim
+[submodule "start/rainbow_parentheses.vim"]
+	path = start/rainbow_parentheses.vim
 	url = https://github.com/kien/rainbow_parentheses.vim.git
-[submodule "supertab"]
-	path = supertab
+[submodule "start/supertab"]
+	path = start/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "tabular"]
-	path = tabular
+[submodule "start/tabular"]
+	path = start/tabular
 	url = https://github.com/godlygeek/tabular.git
-[submodule "ctrlp.vim"]
-	path = ctrlp.vim
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "neocomplete.vim"]
-	path = neocomplete.vim
+[submodule "start/neocomplete.vim"]
+	path = start/neocomplete.vim
 	url = https://github.com/Shougo/neocomplete.vim.git
-[submodule "tComment"]
-	path = tComment
+[submodule "start/tComment"]
+	path = start/tComment
 	url = https://github.com/vim-scripts/tComment.git
-[submodule "ultisnips"]
-	path = ultisnips
+[submodule "start/ultisnips"]
+	path = start/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
-[submodule "vim-airline"]
-	path = vim-airline
+[submodule "start/vim-airline"]
+	path = start/vim-airline
 	url = https://github.com/bling/vim-airline.git
-[submodule "vim-commentary"]
-	path = vim-commentary
+[submodule "start/vim-commentary"]
+	path = start/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
-[submodule "vim-dispatch"]
-	path = vim-dispatch
+[submodule "start/vim-dispatch"]
+	path = start/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
-[submodule "vim-glsl"]
-	path = vim-glsl
+[submodule "start/vim-glsl"]
+	path = start/vim-glsl
 	url = https://github.com/tikhomirov/vim-glsl.git
-[submodule "vim-indent-guides"]
-	path = vim-indent-guides
+[submodule "start/vim-indent-guides"]
+	path = start/vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
-[submodule "vim-pasta"]
-	path = vim-pasta
+[submodule "start/vim-pasta"]
+	path = start/vim-pasta
 	url = https://github.com/sickill/vim-pasta.git
-[submodule "vim-repeat"]
-	path = vim-repeat
+[submodule "start/vim-repeat"]
+	path = start/vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
-[submodule "vim-textobj-user"]
-	path = vim-textobj-user
+[submodule "start/vim-textobj-user"]
+	path = start/vim-textobj-user
 	url = https://github.com/kana/vim-textobj-user.git
