@@ -82,3 +82,6 @@
 	path = start/elm.vim
 	url = https://github.com/lambdatoast/elm.vim.git
   ignore = dirty
+[submodule "start/vim-airline-themes"]
+	path = start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
