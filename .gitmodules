@@ -82,3 +82,9 @@
 	path = start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
   ignore = dirty
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "start/vim-multiple-cursors"]
+	path = start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
