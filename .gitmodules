@@ -82,3 +82,6 @@
 	path = start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
   ignore = dirty
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
