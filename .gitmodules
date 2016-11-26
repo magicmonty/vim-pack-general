@@ -81,12 +81,16 @@
 [submodule "start/syntastic"]
 	path = start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+  ignore = dirty
 [submodule "start/vim-multiple-cursors"]
 	path = start/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
+  ignore = dirty
 [submodule "start/vim-trailing-whitespace"]
 	path = start/vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+  ignore = dirty
 [submodule "start/denite.nvim"]
 	path = start/denite.nvim
 	url = https://github.com/Shougo/denite.nvim.git
+  ignore = dirty
