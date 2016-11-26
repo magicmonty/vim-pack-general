@@ -50,10 +50,6 @@
 	path = start/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
   ignore = dirty
-[submodule "start/vim-glsl"]
-	path = start/vim-glsl
-	url = https://github.com/tikhomirov/vim-glsl.git
-  ignore = dirty
 [submodule "start/vim-indent-guides"]
 	path = start/vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
@@ -85,3 +81,4 @@
 [submodule "start/vim-airline-themes"]
 	path = start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+  ignore = dirty
