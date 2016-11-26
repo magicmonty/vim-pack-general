@@ -87,3 +87,6 @@
 [submodule "start/vim-trailing-whitespace"]
 	path = start/vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "start/denite.nvim"]
+	path = start/denite.nvim
+	url = https://github.com/Shougo/denite.nvim.git
