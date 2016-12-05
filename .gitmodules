@@ -97,4 +97,8 @@
 [submodule "start/ag.vim"]
 	path = start/ag.vim
 	url = https://github.com/rking/ag.vim.git
-  igtnore = dirty
+  ignore = dirty
+[submodule "start/gv.vim"]
+	path = start/gv.vim
+	url = https://github.com/junegunn/gv.vim
+  ignore = dirty
