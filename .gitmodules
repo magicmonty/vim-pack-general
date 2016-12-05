@@ -98,3 +98,6 @@
 	path = start/ag.vim
 	url = https://github.com/rking/ag.vim.git
   igtnore = dirty
+[submodule "gv.vim"]
+	path = gv.vim
+	url = https://github.com/junegunn/gv.vim.git
