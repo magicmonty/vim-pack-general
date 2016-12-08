@@ -102,3 +102,9 @@
 	path = start/gv.vim
 	url = https://github.com/junegunn/gv.vim
   ignore = dirty
+[submodule "start/plantuml-syntax"]
+	path = start/plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax.git
+[submodule "start/vim-cucumber"]
+	path = start/vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
