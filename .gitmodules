@@ -26,10 +26,6 @@
 	path = start/tComment
 	url = https://github.com/vim-scripts/tComment.git
   ignore = dirty
-[submodule "start/ultisnips"]
-	path = start/ultisnips
-	url = https://github.com/SirVer/ultisnips.git
-  ignore = dirty
 [submodule "start/vim-airline"]
 	path = start/vim-airline
 	url = https://github.com/bling/vim-airline.git
@@ -105,4 +101,8 @@
 [submodule "start/vim-unimpaired"]
 	path = start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+  ignore = dirty
+[submodule "opt/ultisnips"]
+	path = opt/ultisnips
+  url = https://github.com/SirVer/ultisnips.git
   ignore = dirty
