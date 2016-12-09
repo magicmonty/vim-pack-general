@@ -42,10 +42,6 @@
 	path = start/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
   ignore = dirty
-[submodule "start/vim-indent-guides"]
-	path = start/vim-indent-guides
-	url = https://github.com/nathanaelkane/vim-indent-guides.git
-  ignore = dirty
 [submodule "start/vim-pasta"]
 	path = start/vim-pasta
 	url = https://github.com/sickill/vim-pasta.git
@@ -77,14 +73,6 @@
 [submodule "start/syntastic"]
 	path = start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
-  ignore = dirty
-[submodule "start/vim-multiple-cursors"]
-	path = start/vim-multiple-cursors
-	url = https://github.com/terryma/vim-multiple-cursors.git
-  ignore = dirty
-[submodule "start/vim-trailing-whitespace"]
-	path = start/vim-trailing-whitespace
-	url = https://github.com/bronson/vim-trailing-whitespace.git
   ignore = dirty
 [submodule "start/denite.nvim"]
 	path = start/denite.nvim
