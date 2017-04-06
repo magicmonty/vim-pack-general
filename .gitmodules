@@ -106,3 +106,7 @@
 	path = opt/ultisnips
   url = https://github.com/SirVer/ultisnips.git
   ignore = dirty
+[submodule "start/todo.txt-vim"]
+	path = start/todo.txt-vim
+	url = https://github.com/freitass/todo.txt-vim.git
+  ignore = dirty
