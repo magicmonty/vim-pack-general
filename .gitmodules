@@ -110,3 +110,7 @@
 	path = start/todo.txt-vim
 	url = https://github.com/freitass/todo.txt-vim.git
   ignore = dirty
+[submodule "start/vim-wordmotion"]
+	path = start/vim-wordmotion
+	url = https://github.com/chaoren/vim-wordmotion.git
+  ignore = dirty
