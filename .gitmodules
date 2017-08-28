@@ -117,3 +117,8 @@
 [submodule "start/Jenkinsfile-vim-syntax"]
 	path = start/Jenkinsfile-vim-syntax
 	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
+  ignore = dirty
+[submodule "start/vim-fish"]
+	path = start/vim-fish
+	url = https://github.com/dag/vim-fish.git
+  ignore = dirty
